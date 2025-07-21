@@ -23,7 +23,7 @@ const Navigation = () => {
     { name: 'Contact', href: '#contact' },
   ];
 
-  const handleNavClick = (href) => {
+  const handleNavClick = (href: string) => {
     setIsOpen(false);
     const element = document.querySelector(href);
     if (element) {
