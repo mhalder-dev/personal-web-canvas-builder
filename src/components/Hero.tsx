@@ -59,14 +59,14 @@ const Hero = () => {
               <Phone size={24} />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/mhalder007/"
               className="p-3 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
               aria-label="LinkedIn"
             >
               <Linkedin size={24} />
             </a>
             <a
-              href="#"
+              href="https://github.com/mhalder-dev"
               className="p-3 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
               aria-label="GitHub"
             >
